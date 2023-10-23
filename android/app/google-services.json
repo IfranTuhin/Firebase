@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338869737571",
+    "project_id": "new-firebase-edc0b",
+    "storage_bucket": "new-firebase-edc0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338869737571:android:48ffd479b0026f950dc056",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-lFGOPFe9Id6yUK9UBy24csx71J8xJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
